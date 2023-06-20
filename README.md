@@ -10,3 +10,8 @@ yt-dlp is an enhanced version of the popular YouTube-DL library that allows down
 
 spleeter:
 Spleeter is a powerful library built on top of the Deezer Research source separation engine. It utilizes deep learning techniques to separate audio sources from a mixed signal. Spleeter's pre-trained models can effectively separate vocals and instrumental tracks, even in complex and densely mixed audio sources.
+
+
+Link to Spleeter documentation: https://github.com/deezer/spleeter/wiki/2.-Getting-started#using-5stems-model
+
+Link to yt-dlp documentation: https://github.com/yt-dlp/yt-dlp
