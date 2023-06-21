@@ -6,7 +6,7 @@ Overview
 In many audio recordings, such as songs or podcasts, vocals and instrumental tracks are mixed together. The purpose of this notebook is to utilize yt-dlp and spleeter, two popular libraries in the open-source community, to perform vocal isolation.
 
 yt-dlp:
-yt-dlp is an enhanced version of the popular YouTube-DL library that allows downloading audio and video content from various platforms, including YouTube. It provides a wide range of options and flexibility to retrieve audio data from online sources.
+yt-dlp is an enhanced version of the popular yt-dl library that allows downloading audio and video content from various platforms. It provides a wide range of options and flexibility to retrieve audio data from online sources.
 
 spleeter:
 Spleeter is a powerful library built on top of the Deezer Research source separation engine. It utilizes deep learning techniques to separate audio sources from a mixed signal. Spleeter's pre-trained models can effectively separate vocals and instrumental tracks, even in complex and densely mixed audio sources.
